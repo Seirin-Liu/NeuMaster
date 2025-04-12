@@ -46,9 +46,6 @@ public class MainActivity extends BaseActivity {
         spinner = binding.spinner;
         getSupportActionBar().setTitle("主页");
 
-
-
-
         //数据源
         ArrayList<String> spinners = new ArrayList<>();
         spinners.add("全部");
